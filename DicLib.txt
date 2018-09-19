@@ -1,0 +1,8 @@
+word
+n 单词，词汇
+fish
+n 鱼，鱼类
+big
+adj 大的
+small
+adj 小的
