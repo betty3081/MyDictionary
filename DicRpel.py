@@ -2,8 +2,8 @@ import sys
 from prompt_toolkit import prompt
 from prompt_toolkit.history import FileHistory
 from prompt_toolkit.auto_suggest import AutoSuggestFromHistory
-from function.SearchDic import Dic_search
-from function.ReadDic import Dic_read
+from Dictionary import Dic_read
+from Dictionary import Dic_search
 
 
 while True:
