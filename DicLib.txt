@@ -6,3 +6,5 @@ big
 adj 大的
 small
 adj 小的
+monkey
+n 猴子
